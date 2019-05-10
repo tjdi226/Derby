@@ -1,3 +1,9 @@
+//--------------------------------------------------------
+// By: Tyler Dishman					 |
+// This application will allow you to bet and view races |
+// happening at keenland and churchill downs             |
+//--------------------------------------------------------
+
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -50,7 +56,7 @@ char displayMenu(){
 	cout << "|5. MAKE      BETS      |\n";
 	cout << "|6. SCAN      BETS      |\n";
 	cout << "|7. WITHDRAWL FUNDS     |\n";
-    cout << "-------------------------\n";
+        cout << "-------------------------\n";
 	cout << "Enter menu option: ";
 	//if (cin.peek() == '\n') cin.ignore();
     	getline(cin, userInput);
@@ -78,13 +84,13 @@ int main(){
 
             case '3': cout << "OPTION 3\n"; break;
             
-	    	case '4': races(); break;
+	    case '4': races(); break;
 
             case '5': cout << "OPTION 5\n"; break;
 			
-	    	case '6': cout << "OPTION 6\n"; break;
+	    case '6': cout << "OPTION 6\n"; break;
 	
-	    	case '7': cout << "OPTION 7\n"; break;
+	    case '7': cout << "OPTION 7\n"; break;
         }
     }
 	system("pause");
