@@ -1,0 +1,12 @@
+KEENLAND
+PP	 	HORSE	 	TRAINER	 	JOCKEY	 	ODDS
+1	 	Shang	 	S. Asmussen	I. Ortiz Jr.	10-1
+2	 	Hawaiian Noises	W. Ward	 	J. Velazquez	10-1
+3	 	Sueno	 	K. Desormeaux	C. Lanerie	5-1
+4	 	Another	 	B. Wright	J. Castellano	2-1
+5	 	Harvey 	 	K. McPeek	B. Hernandez	7-2
+6	 	Chase    	D. Stewart	M. Mena	 	30-1
+7	 	Knicks Go	B. Colebrook	A. Jimenez	15-1
+8	 	Owendale	B. Cox	 	F. Gereaux	12-1
+9	 	Zenden	 	V. Barbara	T. Gaffalione	6-1
+10	 	Roiland	 	T. Amoss	J. Graham	15-1
